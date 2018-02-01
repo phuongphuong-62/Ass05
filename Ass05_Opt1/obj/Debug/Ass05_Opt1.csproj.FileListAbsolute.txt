@@ -1,0 +1,49 @@
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Ass05_Opt1.exe.config
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Ass05_Opt1.exe
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Ass05_Opt1.pdb
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\BUS.exe
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\System.IO.Compression.dll
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\DAO.exe
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Model.exe
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\BUS.pdb
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\BUS.exe.config
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\DAO.pdb
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\DAO.exe.config
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Model.pdb
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Model.exe.config
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.AddUser.resources
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.Properties.Resources.resources
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.csproj.GenerateResource.Cache
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.csproj.CoreCompileInputs.cache
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.exe
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.pdb
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.csprojResolveAssemblyReference.cache
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Ass05_Opt1.exe.config
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.exe
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.pdb
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Ass05_Opt1.exe
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Ass05_Opt1.pdb
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\BUS.exe
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Model.exe
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\DAO.exe
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\BUS.pdb
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\Model.pdb
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\bin\Debug\DAO.pdb
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.csprojResolveAssemblyReference.cache
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.AddUser.resources
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.Properties.Resources.resources
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Ass05_Opt1\obj\Debug\Ass05_Opt1.csproj.GenerateResource.Cache

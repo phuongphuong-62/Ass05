@@ -1,0 +1,16 @@
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Model\bin\Debug\Model.exe.config
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Model\bin\Debug\Model.exe
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Model\bin\Debug\Model.pdb
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.exe
+C:\Users\PhuongHTT\Documents\Visual Studio 2017\Projects\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.pdb
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Model\bin\Debug\Model.exe.config
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Model\bin\Debug\Model.exe
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Model\bin\Debug\Model.pdb
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.Properties.Resources.resources
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.csproj.GenerateResource.Cache
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.exe
+C:\Users\PhuongPhuong\Downloads\PhuongHTTAss05_Opt1\Model\obj\Debug\Model.pdb
